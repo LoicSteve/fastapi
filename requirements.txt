@@ -1,4 +1,5 @@
+black
 fastapi
 pytest
 pylint
-black
+uvicorn[standard]
